@@ -1,7 +1,7 @@
 from together import Together
 import os
 
-client = Together(api_key="31077ccaed84525917480b62ce11a5f31b988eb655bc1a9409b63ff3ad820fd7")
+client = Together(api_key="API_KEY")
 
 def query_llama_maverick(messages):
 
